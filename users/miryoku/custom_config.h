@@ -7,6 +7,8 @@
 
 #define XXX KC_NO
 
+#define NO_AUTO_SHIFT_TAB
+
 // FPS friendly tap layer
 #define MIRYOKU_LAYER_GAME \
 KC_TAB,            KC_Q,              KC_W,             KC_E,             KC_R,              KC_Y,             KC_U,             KC_I,             KC_O,              KC_P,             \
